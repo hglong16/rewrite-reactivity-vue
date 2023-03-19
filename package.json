@@ -17,6 +17,7 @@
   "license": "ISC",
   "dependencies": {
     "@types/node": "^18.15.3",
+    "@vue/runtime-core": "^3.2.47",
     "parcel": "^2.8.3",
     "vue": "^3.2.47"
   },
