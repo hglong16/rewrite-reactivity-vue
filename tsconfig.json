@@ -1,10 +1,17 @@
 {
   "compilerOptions": {
-    "target": "ES5",
+    "target": "es6",
     "lib": [
-      "ES2015"
+      "esnext"
     ],
-    "types": [],
-    "esModuleInterop": true
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "strict": true,
+    "sourceMap": true,
+    "inlineSources": true,
+    "types": [
+      "node"
+    ],
+    "allowSyntheticDefaultImports": true,
   }
 }
