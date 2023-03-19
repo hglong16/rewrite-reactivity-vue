@@ -8,5 +8,8 @@
   },
   "keywords": [],
   "author": "hglong16",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "parcel": "^2.8.3"
+  }
 }
